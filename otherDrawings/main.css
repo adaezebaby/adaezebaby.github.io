@@ -1,0 +1,27 @@
+figure {
+  border: 3px #26104d solid;
+  padding: 4px;
+  margin: auto;
+}
+figcaption {
+  padding: 2px;
+  text-align: center;
+  text-shadow: 2px 2px 3px grey;
+  font-family: ;
+  color: 
+}
+h1 { 
+  text-align: center;
+  font-family: Roboto;
+  font-size: 60px;
+  color: Grey;
+  text-shadow:3px 2px 6px grey;
+   }
+.responsive {
+  width: 100%;
+  height: auto;
+  display: flex;
+   }
+
+
+  
